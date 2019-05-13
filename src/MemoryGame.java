@@ -97,7 +97,7 @@ class MemoryGame {
     private void pickImages() {
     	List<Integer> tempImages = new Vector<>(rows * cols / 2);
         Random rand = new Random();
-        File file = new File("Images/");
+        File file = new File("images/");
         File[] files = file.listFiles();
         System.out.println(file.getAbsolutePath());
         
