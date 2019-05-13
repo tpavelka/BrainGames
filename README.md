@@ -7,6 +7,6 @@ I developed the User Interface for this project.
 
 ## Screenshots:
 
-[](markdown/Mastermind.png "Mastermind UI")
-[](markdown/Matchgame.png "Matchgame UI")
-[](markdown/MatchgameConfig.png "Matchgame Config")
+![](markdown/Mastermind.png "Mastermind UI")
+![](markdown/Matchgame.png "Matchgame UI")
+![](markdown/MatchgameConfig.png "Matchgame Config")
